@@ -86,7 +86,3 @@ The current gesture detection algorithm employs traditional computer vision tech
 Despite the potential benefits of deep learning, the implementation in this code opts for a more traditional thresholding-based approach. This decision stems from the significant requirements for training deep learning models, including extensive datasets of high-quality samples, which were not readily available for this project.
 
 In summary, while acknowledging the potential of advanced deep learning techniques, the current implementation prioritizes simplicity and accessibility, ensuring effective gesture recognition without the need for extensive training datasets.
-
-
----------
-
