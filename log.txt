@@ -1,0 +1,3 @@
+Question: Do you like football?, Response: NO, Current Time: 2024-03-01 00:37:11.168560
+Question: Is it sunny today?, Response: YES, Current Time: 2024-03-01 00:37:14.267305
+Question: Have you eaten lunch?, Response: YES, Current Time: 2024-03-01 00:37:24.862519

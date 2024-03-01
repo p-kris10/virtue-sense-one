@@ -1,0 +1,15 @@
+# Constants and configurations
+MIN_SHAKING_VELOCITY = 0.8
+MIN_NODDING_VELOCITY = 0.6
+
+FRAMES_TO_ANALYZE = 60
+NODDING_SENSITIVITY = 0.025
+SHAKING_SENSITIVITY = 0.05
+
+VERTICAL_ADJUSTMENT = 0.3
+HORIZONTAL_ADJUSTMENT = 0.12
+
+RESPONSE_DURATION = 5
+RESPONSE_DISPLAY_DURATION = 60
+
+questions = ["Do you like football?", "Is it sunny today?", "Have you eaten lunch?"]
